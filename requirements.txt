@@ -1,0 +1,6 @@
+jupyterlab
+mlbox
+pandas
+pandas-profiling
+python3-tk
+scikit-learn
